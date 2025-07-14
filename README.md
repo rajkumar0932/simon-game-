@@ -146,5 +146,5 @@ Feel free to contribute to this project by:
 This project is open source and available under the MIT License.
 
 ---
-live::::-
+live::::-https://rajkumar0932.github.io/simon-game-/
 **Enjoy playing Simon and challenging your memory skills!** 🧠✨
